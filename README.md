@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://media.giphy.com/media/sRGUfOYkLt5chUss87/giphy.gif" width="128" height="135"/>
+<img src="https://media.giphy.com/media/lnOXJzos7UjzQZeh2N/giphy.gif" width="128" height="135"/>
 </p>
 
-# esu-bot
-Simple WhatsApp Bot for Andriod & pc
+# chupitaso-bot
+Simple WhatsApp Bot for Android & pc
 
-BOT BY Smu330⃟꙰
+BOT BY 𝕯ͥ𝖎𝖊𝕲𝖔̈𝖙𝖙𝖎𝖓𝕻𝖍𝖎ͣ𝖆ͫ
 
-TEAM ♥️• ̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬⃟꙰ͧͧͧ⃤⃫✫⃝꯭꯭꯭꯭햮꯭꯭℠₃₃‎̶₀̶• ⃫̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬⃟꙰♥️⃝⃫꙰꙰꙰✫
+TEAM  🐊 𝕰𝖎𝖓𝖊𝖘 𝖐𝖑𝖊𝖎𝖓𝖊𝖗 𝖛𝖔𝖓 𝖉𝖎𝖘𝖈𝖑𝖆𝖎𝖒𝖊𝖗 🌴
 
 ### FOR TERMUX USER💥
 ```bash
@@ -16,7 +16,7 @@ TEAM ♥️• ̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬�
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Samu330/esubot
+> git clone https://github.com/diegottinphia/chupitaso
 > cd esubot
 > npm install
 ```
@@ -33,8 +33,8 @@ TEAM ♥️• ̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬�
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Samu330/esubot
-> cd esubot
+> git clone https://github.com/diegottinphia/chupitaso
+> cd chupitaso
 > npm install
 ```
 ###### Run
